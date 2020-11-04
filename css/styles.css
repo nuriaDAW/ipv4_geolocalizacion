@@ -64,8 +64,8 @@ label {
     color: #424242;
 }
 
-input[type="text"] {
-    padding: 0.25rem 6.25rem 0.25rem 0.25rem;
+#num_ip {
+    padding: 0.8rem;
     border: none;
     border-bottom:  solid #0075b6;
 }
